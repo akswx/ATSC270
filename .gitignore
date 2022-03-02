@@ -1,0 +1,4 @@
+# ignore .DS_Store files 
+# these are created by Mac OS and should not be shared
+*.DS_Store
+
